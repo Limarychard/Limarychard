@@ -16,9 +16,9 @@ What I've Learned:
 
 - GITHUB
 
-What am i learning:
- 
 - JavaScript 
+
+What am i learning:
 
 - Node
 
