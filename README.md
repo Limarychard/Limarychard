@@ -9,23 +9,16 @@ here is some things about me
 What I've Learned: 
 
 - HTML
-
 - CSS
-
 - GIT
-
 - GITHUB
-
 - JavaScript 
-
-What am i learning:
-
-- Node
-
-- React 
+- Vue.js
+- React.js
+- Node.js
 
 <p>
-<a href"https://www.instagram.com/limarychard/">
+<a href"https://www.instagram.com/devRychard/">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rychard-lima-802a60210/">
