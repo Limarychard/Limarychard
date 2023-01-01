@@ -1,37 +1,23 @@
-### Hi there 
-
-Hi, I'm Rychard and I dream of being a programmer! 
-
-This is the space where I spend most of my time where, imagination and creativity become code.
-
-here is some things about me
-
-What I've Learned: 
-
-- HTML
-- CSS
-- GIT
-- GITHUB
-- JavaScript 
-- Vue.js
-- React.js
-- Node.js
-
-<p>
-<a href"https://www.instagram.com/devRychard/">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rychard-lima-802a60210/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
-<br />
-<br />
-
-<br />
-
-[![Rychard's github stats](https://github-readme-stats.vercel.app/api?username=Limarychard&show_icons=true&theme=buefy)](https://github.com/Limarychard/github-readme-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limarychard&layout=compact&show_icons=true&theme=buefy)](https://github.com/Limarychard/github-readme-stats)
+## Oii, sou Rychard Lima, um jovem programador que busca sempre estar se aprimorando e melhorando a cada dia que passa!
+<div align="center">
+  <a href="https://github.com/limarychard">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limarychard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limarychard&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rychard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rychard-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rychard-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rychard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rychard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/devrychard" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "devrychard2708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/rychard-lima-802a60210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/limarychard/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
