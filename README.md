@@ -1,4 +1,3 @@
-## Oii, sou Rychard Lima, um jovem programador que busca sempre estar se aprimorando e melhorando a cada dia que passa!
 <div align="center">
   <a href="https://github.com/limarychard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limarychard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
